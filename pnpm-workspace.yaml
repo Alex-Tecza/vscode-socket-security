@@ -39,7 +39,7 @@ catalog:
   'oxfmt': 0.37.0
   'oxlint': 1.52.0
   'taze': 19.9.2
-  'vitest': 4.1.6
+  'vitest': 4.1.11
 
 autoInstallPeers: true
 resolutionMode: highest

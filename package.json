@@ -134,7 +134,7 @@
     "oxlint": "1.52.0",
     "taze": "19.11.0",
     "typescript": "6.0.3",
-    "vitest": "4.1.5"
+    "vitest": "4.1.11"
   },
   "repository": {
     "url": "https://github.com/SocketDev/vscode-socket-security"
